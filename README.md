@@ -8,6 +8,8 @@ biod lab, biomedical artificial intelligence cloud
 | 心电诊断 / 深度学习 / 2分类 | v1   | http://ai.biodwhu.cn/ecg/dl/classify2/v1 |
 | 心电诊断 / 深度学习 / 4分类 | v1   | http://ai.biodwhu.cn/ecg/dl/classify4/v1 |
 | 心电诊断 / 机器学习 / 9分类 | v1   | http://ai.biodwhu.cn/ecg/ml/classify9/v1 |
+|                             |      |                                          |
+| xx诊断 / 机器学习 / xx分类  | v1   | http://ai.biodwhu.cn/xx/ml/classifyxx/v1 |
 
 
 
