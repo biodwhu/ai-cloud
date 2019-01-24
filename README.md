@@ -7,7 +7,7 @@ biod lab, biomedical artificial intelligence cloud
 | --------------------------- | ---- | ---------------------------------------- |
 | 心电诊断 / 深度学习 / 2分类 | v1   | http://ai.biodwhu.cn/ecg/dl/classify2/v1 |
 | 心电诊断 / 深度学习 / 4分类 | v1   | http://ai.biodwhu.cn/ecg/dl/classify4/v1 |
-| 心电诊断 / 机器学习/ 4分类  |      | http://ai.biodwhu.cn/ecg/ml/classify4/v1 |
+| 心电诊断 / 机器学习 / 9分类 | v1   | http://ai.biodwhu.cn/ecg/ml/classify9/v1 |
 
 
 
@@ -31,7 +31,7 @@ biod lab, biomedical artificial intelligence cloud
 
 ```json
 {
-    "code":200
+    "code":200,
     "msg":"请求成功",
     "ai_cloud_id":"23345412233423458998"
 }
@@ -41,7 +41,7 @@ biod lab, biomedical artificial intelligence cloud
 
 ### 第二步：ai-cloud 诊断
 
-1. 下载文件
+1. 下载文件（上传文件）
 2. 调用 tensorflow 诊断
 3. 出结果
 
